@@ -1,0 +1,45 @@
+/* Estilos CSS para dar formato a la hoja de vida */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+/* Estilos para las secciones específicas */
+.informacion-personal {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
+
+.educacion, .experiencia-laboral, .habilidades {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.educacion {
+    background-color: #e3f2fd;
+}
+
+.experiencia-laboral {
+    background-color: #f0f4c3;
+}
+
+.habilidades {
+    background-color: #fce4ec;
+}
